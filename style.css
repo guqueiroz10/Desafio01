@@ -1,16 +1,16 @@
 body {
   text-align: center;
-  margin: 0;
+  
 }
 
 #main {
   width: 626px;
-  margin: 0 auto 64px;
+  margin: 64px auto 64px;
 }
 
 #main img {
   width: 350px;
-  margin-bottom: 32px;
+  margin-bottom: 100px;
 }
 
 h2 {
@@ -63,7 +63,6 @@ a {
 
 #wave {
   position: relative;
-  width: 1024px;
-  height: 104px;
+  width: 100%;
   margin-top: 40px;
 }
